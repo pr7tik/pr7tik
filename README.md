@@ -9,25 +9,21 @@
 ## 👨‍💻 About Me
 
 I'm **Pratik Kumar Rao**, a B.Tech CSE student.
-
 Breaking Things & Building Better Ones. ⚡
 
 ### 🌱 Currently Learning
-
 - C++
 - Python
 - Git & Linux
 - Web Development
 
 ### 💡 Interests
-
 - Software Engineering
 - Full Stack Development
 - Data Structures & Algorithms
 - Open Source
 
 ### 🎯 Goals
-
 - Build real-world software projects
 - Improve problem-solving and DSA
 - Learn software engineering fundamentals
