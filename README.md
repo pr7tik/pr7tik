@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Pratik Kumar Rao**, a B.Tech CSE student.
+I'm **Pratik Rao**, a B.Tech CSE student.
 Breaking Things & Building Better Ones. ⚡
 
 ### 🌱 Currently Learning
